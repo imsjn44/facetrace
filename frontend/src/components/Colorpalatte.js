@@ -1,7 +1,4 @@
-import React from 'react';
 import { createTheme } from '@mui/material/styles';
-import Box from '@mui/material/Box';
-import Typography from '@mui/material/Typography';
 
 const theme = createTheme({
     palette: {

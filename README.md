@@ -116,35 +116,27 @@ The images stored in the MongoDB database are compared with real-time images cap
 - **Step 7: Officer Validation**
     - Officers use the displayed cards on the frontend to verify the information and take appropriate action based on the confirmed match.
       
+## Screenshots
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Demo Images
+<div align="center">
 <img src="demo/1.png" width="700px"/>
-<img src="demo/2.png" width="700px"/>
-<img src="demo/3.png" width="700px"/>
-<img src="demo/4.png" width="700px"/>
-<img src="demo/5.png" width="700px"/>
-<img src="demo/6.png" width="700px"/>
-<img src="demo/7.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
+<div align="center">
+<img src="demo/1.png" width="700px"/>
+</div>
 

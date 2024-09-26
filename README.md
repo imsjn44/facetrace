@@ -16,6 +16,8 @@ FaceTrace is an advanced facial recognition system designed to aid in locating m
 ## Installation
 ### **Prerequisites**
 
+Ensure that the following software is installed on your system:
+
 - Python 3.10
 - FastApi 0.180.0
 - MongoDB 7.0
@@ -121,21 +123,27 @@ The images stored in the MongoDB database are compared with real-time images cap
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>
+
 <div align="center">
 <img src="demo/1.png" width="700px"/>
 </div>

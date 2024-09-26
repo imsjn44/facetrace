@@ -122,29 +122,29 @@ The images stored in the MongoDB database are compared with real-time images cap
 
 <div align="center">
 <img src="demo/1.png" width="500px"/>
-</div>
+</div> <br>
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br>
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br>
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br>
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br>
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br> 
 
 <div align="center">
-<img src="demo/1.png" width="700px"/>
-</div>
+<img src="demo/1.png" width="500px"/>
+</div> <br>
 

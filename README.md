@@ -91,24 +91,31 @@ The following steps outline the workflow of FaceTrace:
 
 - **Step 1: Informer Submits Missing Person Information**
     - The user (informer) fills out a form on the ReactJS frontend with details such as name, age, gender, and an image of the missing person.
+      
 - **Step 2: Data Sent to Backend**
     - The form data is submitted to the FastAPI backend using a POST request.
     - The FastAPI backend processes the request and stores the information, including the image, in a MongoDB database. The status of each missing person entry is tracked for updates.
+      
 - **Step 3: Data Retrieval for Display**
     - The frontend regularly sends a GET request to the FastAPI backend to retrieve the updated missing person information from the MongoDB database.
     - The retrieved data is displayed on the frontend using Material UI components in the form of visually appealing cards, showing the details of each missing person.
+      
 - **Step 4: Real-Time Facial Recognition via Websockets**
     - The FastAPI server processes the facial recognition using a Siamese Neural Network model.
 The images stored in the MongoDB database are compared with real-time images captured through the user's webcam.
     - Websockets facilitate real-time communication between the frontend and backend for continuous image comparison.
+      
 -  **Step 5: Image Matching**
     - The Siamese model compares the stored image with the real-time webcam image.
     - If the model returns a similarity score of 1, it indicates a successful match between the stored and live-captured images, confirming the identity of the person.
+      
 - **Step 6: Identification and Display of Matched Person**
     - Upon a match, the system generates a new card in the frontend displaying the identified individual’s details.
     - Law enforcement officers review this information and validate the identification.
+      
 - **Step 7: Officer Validation**
     - Officers use the displayed cards on the frontend to verify the information and take appropriate action based on the confirmed match.
+      
 
 
 

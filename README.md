@@ -139,9 +139,7 @@ The images stored in the MongoDB database are compared with real-time images cap
 <div align="center">
 <img src="demo/5.png" width="600px"/>
 </div> <br>
-<div align="center">
-<img src="demo/55.png" width="600px"/>
-</div> <br>
+
 
 <div align="center">
 <img src="demo/6.png" width="600px"/>

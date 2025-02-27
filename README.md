@@ -71,9 +71,9 @@ In FaceTrace, VGG16 plays a pivotal role in facial feature extraction, which is 
 
 **2. Siamese Neural Network**
 
-<div align= "center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/77e3dc2c-72c1-4df3-9ab0-83c8451006ef">
-</div>
+<div align="center">
+<img src="demo/8.png" width="400px"/>
+</div> <br>
 
 The Siamese Neural Network is designed to learn the similarity between two input images. It is specifically tailored for tasks like facial recognition, where comparing images is crucial. Here's how it works in FaceTrace:
 
